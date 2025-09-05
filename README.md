@@ -23,3 +23,11 @@ loads the private key for decryption
 reads the .bin file now that we have used the decryption key
 decrypts the message
 prints it to the console
+
+
+* * * URLs used for resources * * *
+https://cryptography.io/en/latest/fernet/
+https://cryptography.io/en/latest/hazmat/primitives/asymmetric/#
+https://docs.python.org/3/library/base64.html
+https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail#:~:text=Privacy%2DEnhanced%20Mail%20(PEM),the%20IETF%20in%20RFC%207468.
+https://www.techtarget.com/whatis/definition/binary-file
