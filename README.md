@@ -10,6 +10,7 @@ prints the message
 
 
 * * * Asymmetric_Key.py * * *
+    *  * Run This First BEFORE Asymmetric_Decrypt.py * * 
 generates a public key for anyone to be able to encrypt a message
 generates a private key only a specific user would have
 takes a user's input, encrypts the text
